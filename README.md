@@ -19,4 +19,4 @@ Android Studioで開発した電卓アプリです。
 
 ## スクリーンショット
 
-![電卓アプリ画面](screenshot.png)
+![電卓アプリ画面](images/screenshot.png)
